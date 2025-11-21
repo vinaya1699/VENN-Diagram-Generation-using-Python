@@ -31,6 +31,13 @@ Condition → group/condition label for each sample
 3.group1, group2
 Condition names exactly as present in metadata.txt
 
+🛠️ Dependencies
+pandas
+numpy
+matplotlib
+matplotlib-venn
+openpyxl
+
 📁 Output Example Structure
 venn_Treated_vs_Control.png
 Venn_Analysis_Treated_vs_Control.xlsx
@@ -43,9 +50,4 @@ Venn_Analysis_Treated_vs_Control.xlsx
 
 
 
-🛠️ Dependencies
-pandas
-numpy
-matplotlib
-matplotlib-venn
-openpyxl
+
